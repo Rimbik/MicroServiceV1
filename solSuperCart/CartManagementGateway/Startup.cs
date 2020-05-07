@@ -13,7 +13,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
 namespace CartManagementGateway
-{
+{//1st Change
     public class Startup
     {
         public Startup(IConfiguration configuration)
