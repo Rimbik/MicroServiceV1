@@ -1,0 +1,17 @@
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\bin\Debug\netcoreapp3.1\MyService.exe
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\bin\Debug\netcoreapp3.1\MyService.deps.json
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\bin\Debug\netcoreapp3.1\MyService.runtimeconfig.json
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\bin\Debug\netcoreapp3.1\MyService.runtimeconfig.dev.json
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\bin\Debug\netcoreapp3.1\MyService.dll
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\bin\Debug\netcoreapp3.1\MyService.pdb
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\obj\Debug\netcoreapp3.1\MyService.MvcApplicationPartsAssemblyInfo.cache
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\obj\Debug\netcoreapp3.1\MyService.AssemblyInfoInputs.cache
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\obj\Debug\netcoreapp3.1\MyService.AssemblyInfo.cs
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\obj\Debug\netcoreapp3.1\MyService.RazorTargetAssemblyInfo.cache
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\obj\Debug\netcoreapp3.1\staticwebassets\MyService.StaticWebAssets.Manifest.cache
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\obj\Debug\netcoreapp3.1\staticwebassets\MyService.StaticWebAssets.xml
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\obj\Debug\netcoreapp3.1\MyService.dll
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\MyService\obj\Debug\netcoreapp3.1\MyService.pdb

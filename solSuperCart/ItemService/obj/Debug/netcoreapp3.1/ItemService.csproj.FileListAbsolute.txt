@@ -1,0 +1,17 @@
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\bin\Debug\netcoreapp3.1\ItemService.exe
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\bin\Debug\netcoreapp3.1\ItemService.deps.json
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\bin\Debug\netcoreapp3.1\ItemService.runtimeconfig.json
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\bin\Debug\netcoreapp3.1\ItemService.runtimeconfig.dev.json
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\bin\Debug\netcoreapp3.1\ItemService.dll
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\bin\Debug\netcoreapp3.1\ItemService.pdb
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\obj\Debug\netcoreapp3.1\ItemService.MvcApplicationPartsAssemblyInfo.cache
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\obj\Debug\netcoreapp3.1\ItemService.AssemblyInfoInputs.cache
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\obj\Debug\netcoreapp3.1\ItemService.AssemblyInfo.cs
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\obj\Debug\netcoreapp3.1\ItemService.RazorTargetAssemblyInfo.cache
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\obj\Debug\netcoreapp3.1\staticwebassets\ItemService.StaticWebAssets.Manifest.cache
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\obj\Debug\netcoreapp3.1\staticwebassets\ItemService.StaticWebAssets.xml
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\obj\Debug\netcoreapp3.1\ItemService.dll
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\ItemService\obj\Debug\netcoreapp3.1\ItemService.pdb

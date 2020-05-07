@@ -1,0 +1,8 @@
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\NotificationService\bin\Debug\netstandard2.0\NotificationService.deps.json
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\NotificationService\bin\Debug\netstandard2.0\NotificationService.dll
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\NotificationService\obj\Debug\netstandard2.0\NotificationService.csprojAssemblyReference.cache
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\NotificationService\obj\Debug\netstandard2.0\NotificationService.AssemblyInfoInputs.cache
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\NotificationService\obj\Debug\netstandard2.0\NotificationService.AssemblyInfo.cs
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\NotificationService\bin\Debug\netstandard2.0\NotificationService.pdb
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\NotificationService\obj\Debug\netstandard2.0\NotificationService.dll
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\NotificationService\obj\Debug\netstandard2.0\NotificationService.pdb
