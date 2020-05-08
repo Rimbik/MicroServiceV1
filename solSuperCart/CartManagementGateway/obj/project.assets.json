@@ -22,6 +22,16 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "EventSourcing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/EventSourcing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EventSourcing.dll": {}
+        }
       }
     }
   },
@@ -67,15 +77,21 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "EventSourcing/1.0.0": {
+      "type": "project",
+      "path": "../EventHandler/EventSourcing.csproj",
+      "msbuildProject": "../EventHandler/EventSourcing.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "EventSourcing >= 1.0.0",
       "RabbitMQ.Client >= 6.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User.DESKTOP-MN2GKEE\\.nuget\\packages\\": {}
+    "C:\\Users\\Rimbik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -83,11 +99,11 @@
       "projectUniqueName": "D:\\MicroServicePractice\\Practical\\SuperCart\\solSuperCart\\CartManagementGateway\\CartManagementGateway.csproj",
       "projectName": "CartManagementGateway",
       "projectPath": "D:\\MicroServicePractice\\Practical\\SuperCart\\solSuperCart\\CartManagementGateway\\CartManagementGateway.csproj",
-      "packagesPath": "C:\\Users\\User.DESKTOP-MN2GKEE\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Rimbik\\.nuget\\packages\\",
       "outputPath": "D:\\MicroServicePractice\\Practical\\SuperCart\\solSuperCart\\CartManagementGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User.DESKTOP-MN2GKEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rimbik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -99,7 +115,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\MicroServicePractice\\Practical\\SuperCart\\solSuperCart\\EventHandler\\EventSourcing.csproj": {
+              "projectPath": "D:\\MicroServicePractice\\Practical\\SuperCart\\solSuperCart\\EventHandler\\EventSourcing.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

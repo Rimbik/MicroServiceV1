@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\MicroServicePractice\\Practical\\SuperCart\\solSuperCart\\MyService\\CatalogService.csproj",
         "projectName": "CatalogService",
         "projectPath": "D:\\MicroServicePractice\\Practical\\SuperCart\\solSuperCart\\MyService\\CatalogService.csproj",
-        "packagesPath": "C:\\Users\\User.DESKTOP-MN2GKEE\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Rimbik\\.nuget\\packages\\",
         "outputPath": "D:\\MicroServicePractice\\Practical\\SuperCart\\solSuperCart\\MyService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User.DESKTOP-MN2GKEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rimbik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

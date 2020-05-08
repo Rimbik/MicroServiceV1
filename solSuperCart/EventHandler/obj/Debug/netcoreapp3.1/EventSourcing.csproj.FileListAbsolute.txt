@@ -1,0 +1,8 @@
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\EventHandler\bin\Debug\netcoreapp3.1\EventSourcing.deps.json
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\EventHandler\bin\Debug\netcoreapp3.1\EventSourcing.dll
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\EventHandler\bin\Debug\netcoreapp3.1\EventSourcing.pdb
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\EventHandler\obj\Debug\netcoreapp3.1\EventSourcing.csprojAssemblyReference.cache
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\EventHandler\obj\Debug\netcoreapp3.1\EventSourcing.AssemblyInfoInputs.cache
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\EventHandler\obj\Debug\netcoreapp3.1\EventSourcing.AssemblyInfo.cs
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\EventHandler\obj\Debug\netcoreapp3.1\EventSourcing.dll
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\EventHandler\obj\Debug\netcoreapp3.1\EventSourcing.pdb

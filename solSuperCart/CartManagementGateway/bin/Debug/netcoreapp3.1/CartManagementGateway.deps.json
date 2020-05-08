@@ -24,6 +24,7 @@
     ".NETCoreApp,Version=v3.1": {
       "CartManagementGateway/1.0.0": {
         "dependencies": {
+          "EventSourcing": "1.0.0",
           "RabbitMQ.Client": "6.0.0",
           "System.Web.Extensions": "4.0.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
@@ -322,6 +323,14 @@
         }
       },
       "System.Memory/4.5.4": {},
+      "EventSourcing/1.0.0": {
+        "runtime": {
+          "EventSourcing.dll": {}
+        },
+        "compile": {
+          "EventSourcing.dll": {}
+        }
+      },
       "System.Web.Extensions/4.0.0.0": {
         "runtime": {
           "System.Web.Extensions.dll": {
@@ -2216,6 +2225,11 @@
       "sha512": "sha512-1MbJTHS1lZ4bS4FmsJjnuGJOu88ZzTT2rLvrhW7Ygic+pC0NWA+3hgAen0HRdsocuQXCkUTdFn9yHJJhsijDXw==",
       "path": "system.memory/4.5.4",
       "hashPath": "system.memory.4.5.4.nupkg.sha512"
+    },
+    "EventSourcing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "System.Web.Extensions/4.0.0.0": {
       "type": "reference",

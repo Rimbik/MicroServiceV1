@@ -36,6 +36,17 @@ namespace CartManagementGateway.NotificationHandler
         {
             byte[] body = e.Body.ToArray();
             var message = Encoding.UTF8.GetString(body);
+
+            
+            //Add in EventSourcing
+            EventSourcing.EventHandler.Events.Add(new EventSourcing.Event()
+            {
+                Id = 1,
+                Type = EventSourcing.EventType.ItemBlocked,
+                ReferenceId = int.Parse(message.Split(',')[0]),
+                OccuredAt = DateTime.Now
+            }
+            );
         }
 
         public static void Publish(string message)

@@ -77,3 +77,5 @@ D:\MicroServicePractice\Practical\SuperCart\solSuperCart\CartManagementGateway\b
 D:\MicroServicePractice\Practical\SuperCart\solSuperCart\CartManagementGateway\bin\Debug\netcoreapp3.1\System.Activities.DurableInstancing.xml
 D:\MicroServicePractice\Practical\SuperCart\solSuperCart\CartManagementGateway\bin\Debug\netcoreapp3.1\System.EnterpriseServices.Wrapper.dll
 D:\MicroServicePractice\Practical\SuperCart\solSuperCart\CartManagementGateway\obj\Debug\netcoreapp3.1\CartManagementGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\CartManagementGateway\bin\Debug\netcoreapp3.1\EventSourcing.dll
+D:\MicroServicePractice\Practical\SuperCart\solSuperCart\CartManagementGateway\bin\Debug\netcoreapp3.1\EventSourcing.pdb
